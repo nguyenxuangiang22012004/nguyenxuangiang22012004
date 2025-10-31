@@ -5,7 +5,6 @@
 ### 👨‍💻 About Me
 - 🎯 Passionate about **building scalable backend systems** and clean API design.  
 - 🧠 Learning: **Microservices, Docker, and Cloud Deployment (AWS / Render)**  
-- 🔭 Currently working on: **Xepo & Talio projects**  
 - 🎓 Student at **Electric Power University** (GPA: 3.45/4, 2022–Present)  
 - 📫 Reach me at: **nguyenxuangiang22012004@gmail.com**
 
