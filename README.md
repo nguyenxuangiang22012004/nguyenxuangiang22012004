@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Xuân Giang</h1>
-<h3 align="center">💻 Backend Developer | Node.js | NestJS | MongoDB | React</h3>
+<h3 align="center">💻 Backend Developer</h3>
 
 
 ### 👨‍💻 About Me
