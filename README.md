@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Xuân Giang</h1>
-<h3 align="center">💻 Backend Developer</h3>
+<h3 align="center">💻 FrontEnd Developer</h3>
 
 
 ### 👨‍💻 About Me
@@ -11,8 +11,8 @@
 ### 🛠️ Tech Stack
 **Languages:** JavaScript (ES6+), TypeScript  
 **Backend:** Node.js, Express, NestJS  
-**Frontend:** React.js, Nuxt.js  
-**Database:** MongoDB, MySQL, Prisma  
+**Frontend:** React.js , HTML5 , CSS3 , TailwindCSS   
+**Database:** MongoDB, MySQL 
 **Tools & Others:** Git, Docker, Postman, JWT, RESTful APIs  
 
 
@@ -22,7 +22,6 @@
 |----------|--------------|-------------|
 | [🎬 Movie Blockchain Website](https://github.com/nguyenxuangiang22012004/movieBlockChainProject) | Movie site with authentication & blockchain (IPFS) storage. | Node.js, Express, React, TailwindCSS, MongoDB |
 | [📝 TodoList App](https://github.com/nguyenxuangiang22012004/todolistReactNodejs) | Full-stack task manager app with RESTful API & responsive UI. | Node.js, Express, React, MongoDB |
-| [🚗 Xepo Website](https://xepo.ai/) | Contributed to UI and backend integration in real-world project. | NestJS, NuxtJS, Prisma, Docker |
 | [💼 Talio Website](https://talio.vn/) | Improved system stability and optimized DB performance. | NestJS, NuxtJS, MongoDB |
 
 
