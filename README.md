@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Xuân Giang</h1>
-<h3 align="center">💻 Frontend Developer</h3>
+<h3 align="center">💻 Fullstack Developer</h3>
 
 ### 👨‍💻 About Me
 - 🎯 Passionate about **building modern, responsive user interfaces** and delivering great user experiences.  
@@ -12,7 +12,7 @@
 
 **Frontend:** React.js, NextJS , HTML5, CSS3, TailwindCSS  
 
-**Backend (Basic):** Node.js, Express , RestfulAPI , Redis  
+**Backend (Basic):** Java , Spring Boot , Node.js, Express , RestfulAPI , Redis  
 
 **Database:** MongoDB, MySQL  
 
